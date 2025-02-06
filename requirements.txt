@@ -1,0 +1,5 @@
+opencv-python-headless  # Use headless OpenCV to avoid GUI dependencies
+numpy
+pytesseract
+streamlit
+pillow
